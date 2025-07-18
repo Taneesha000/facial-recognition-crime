@@ -25,5 +25,11 @@ Performance of model
 - User friendly
 - Accuracy
 
-# 
+#All dependencies:
+
+-streamlit
+-face-recognition
+-opencv-python
+-numpy
+-Pillow
 
