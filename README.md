@@ -5,13 +5,7 @@ HEAD
 ## Demo Video [Link](https://www.youtube.com/watch?v=M5v2rXOalcw)
 
 ### Problem Statement: Build a face recognition analytics system for law enforcement agencies
-#
 
-
-
-### Problem Statement: Build a face recognition analytics system for law enforcement agencies
-
-e58900ef411ca3f7ea899962ab97aba59a1feb5c
 Problem Description:
 The security of India is becoming ever more critical in this new world. There is an expectation of a slew of organized crime activities that may attempt to cripple our law enforcement and defense agencies. In such a scenario, technology becomes of paramount importance.
 One aspect of the use of technology in law enforcement is video analytics, and video analytics has various components. One of the components is to identify patterns across different videos.
